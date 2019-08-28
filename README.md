@@ -7,7 +7,7 @@
 | 3 | Web Fundamentals |  |  | [Note](https://github.com/jesielviana/web-development-course/blob/master/web-fundamentals.md) |
 | 4 | HTTP and HTTPS |  |  |  |
 | 5 | How the Web Works?  |  |  |  |
-|<td colspan=4> **Front-end** </td>|
+| **Front-end** |
 | 6 | HTML Introduction |  | [Code](https://github.com/jesielviana/web-development-course/blob/master/front-end/html-introduction.html) | [Note](https://github.com/jesielviana/web-development-course/blob/master/front-end/html-introduction.md) |
 |20 | API and Fetch API |  | [Code](https://github.com/jesielviana/web-development-course/tree/master/front-end/fetch-api)  |  |
 | **Back-end**  |
