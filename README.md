@@ -9,7 +9,5 @@
 | 5 | How the Web Works?  |  |  |  |
 | - | Front-end  |  |  |  |
 | 6 | HTML Introduction |  | [Code](https://github.com/jesielviana/web-development-course/blob/master/front-end/html-introduction.html) |  |
-
-
 | - | Back-end  |  |  |  |
-| XX | JS Introduction |  | [Code](https://github.com/jesielviana/web-development-course/blob/master/back-end/js-declarations-types.js) |  |
+| - | JS Introduction |  | [Code](https://github.com/jesielviana/web-development-course/blob/master/back-end/js-declarations-types.js) |  |
