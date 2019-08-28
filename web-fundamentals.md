@@ -4,7 +4,8 @@
 
 Global Network.
 
-With many parts:
+Communication:
+* Device
 * IP Address
 * Port
 * TCP Protocol

@@ -2,6 +2,7 @@
 
 | Class | Lecture | Slides | Code | Notes |
 | ------ | ------ |------ |------ |------ |
+| **Fundamentals** |
 | 1 | Introduction | [Slide 1](https://docs.google.com/presentation/d/1Vy1hpRQr1PBVi_kC04q8D6RcWNVY4iITHtoCcNI_-C8/edit?usp=sharing) | - | - |
 | 2 | Basic Fundamentals | | | [Note](https://github.com/jesielviana/web-development-course/blob/master/basic-fundamentals.md) |
 | 3 | Web Fundamentals |  |  | [Note](https://github.com/jesielviana/web-development-course/blob/master/web-fundamentals.md) |

@@ -44,7 +44,7 @@ Version control is a system that records changes to a file or set of files over 
 
 Collaboration between developers on the same project.
 
-Version Control Free: [Github](http://github.com), [Gitlab](https://gitlab.com/)
+Free Version Control: [Github](http://github.com), [Gitlab](https://gitlab.com/)
 
 Learn More: [https://rogerdudler.github.io/git-guide/index.pt_BR.html](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
