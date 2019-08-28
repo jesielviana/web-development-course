@@ -12,4 +12,4 @@
 
 
 | - | Back-end  |  |  |  |
-| XX | JS Introduction |  |  |  |
+| XX | JS Introduction |  | [Code](https://github.com/jesielviana/web-development-course/blob/master/back-end/js-declarations-types.js) |  |
