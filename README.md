@@ -1,4 +1,4 @@
-# Web Development Course Code 
+# Web Development Course 
 
 | Class | Lecture | Slides | Code | Notes |
 | ------ | ------ |------ |------ |------ |
