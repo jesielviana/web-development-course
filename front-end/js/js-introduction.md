@@ -2,10 +2,10 @@
 
 ## Declarations
 ```javascript
-let nome = 'Fulano';
-let sobrenome = "Sicrano";
-const sexo = 'Masculino';
-var naoUseVar = 'Não use var';
+let name = 'Fulano';
+let lastName = "Sicrano";
+const sex = 'Masculino';
+var doNotUse = "Don't Use 'var'";
 ```
 
 ## Variable scope
