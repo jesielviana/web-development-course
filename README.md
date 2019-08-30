@@ -9,8 +9,9 @@
 | 4 | HTTP and HTTPS |  |  |  |
 | 5 | How the Web Works?  |  |  |  |
 | **Front-end** |
-| 6 | HTML Introduction | [Note](https://github.com/jesielviana/web-development-course/blob/master/front-end/html-introduction.md) | [Code](https://github.com/jesielviana/web-development-course/blob/master/front-end/html-introduction.html) |  |
-|19| JS Callback and Promisse | [Note](https://github.com/jesielviana/web-development-course/tree/master/front-end/js/callback-promisse.md) |  | |
-|20 | API| [Note](https://github.com/jesielviana/web-development-course/tree/master/front-end/api/api.md)  | [Code](https://github.com/jesielviana/web-development-course/tree/master/front-end/api)  | |
+| 6 | HTML Introduction | [Note](https://github.com/jesielviana/web-development-course/blob/master/front-end/html/html-introduction.md) | [Code](https://github.com/jesielviana/web-development-course/blob/master/front-end/html/introduction.html) |  |
+| 13 | JS Introduction | [Note](https://github.com/jesielviana/web-development-course/blob/master/back-end/js/js-introduction.md) |  |  |
+|14| JS Callback and Promisse | [Note](https://github.com/jesielviana/web-development-course/tree/master/front-end/js/callback-promisse.md) |  | |
+|16,17 | API| [Note](https://github.com/jesielviana/web-development-course/tree/master/front-end/api/api.md)  | [Code](https://github.com/jesielviana/web-development-course/tree/master/front-end/api)  | |
 | **Back-end**  |
-| - | JS Introduction |  | [Code](https://github.com/jesielviana/web-development-course/blob/master/back-end/js-declarations-types.js) |  |
+| - | JS Advanced |  |  |  |
