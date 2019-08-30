@@ -90,10 +90,10 @@ cars.push('Tesla');
 console.log(cars);
 ```
 
-Array elements can be Objects;
-How to access the first element of the array?
-How to access the last element of the array?
-How to iterate over elements of an array?
+- Array elements can be Objects;
+- How to access the first element of the array?
+- How to access the last element of the array?
+- How to iterate over elements of an array?
 
 
 Reference: 
