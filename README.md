@@ -10,6 +10,7 @@
 | 5 | How the Web Works?  |  |  |  |
 | **Front-end** |
 | 6 | HTML Introduction |  | [Code](https://github.com/jesielviana/web-development-course/blob/master/front-end/html-introduction.html) | [Note](https://github.com/jesielviana/web-development-course/blob/master/front-end/html-introduction.md) |
-|20 | API and Fetch API |  | [Code](https://github.com/jesielviana/web-development-course/tree/master/front-end/fetch-api)  |  |
+|19| JS Callback and Promisse | | | [Note](https://github.com/jesielviana/web-development-course/tree/master/front-end/js/callback-promisse.md) | 
+|20 | API|  | [Code](https://github.com/jesielviana/web-development-course/tree/master/front-end/api)  | [Note](https://github.com/jesielviana/web-development-course/tree/master/front-end/api/api.md) |
 | **Back-end**  |
 | - | JS Introduction |  | [Code](https://github.com/jesielviana/web-development-course/blob/master/back-end/js-declarations-types.js) |  |
