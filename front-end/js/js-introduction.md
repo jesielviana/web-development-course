@@ -97,5 +97,5 @@ console.log(cars);
 
 
 Reference: 
-[https://www.w3schools.com/js/js_intro.asp](https://www.w3schools.com/js/js_intro.asp)
-[https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Values,_variables,_and_literals](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Values,_variables,_and_literals)
+- [https://www.w3schools.com/js/js_intro.asp](https://www.w3schools.com/js/js_intro.asp)
+- [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Values,_variables,_and_literals](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Values,_variables,_and_literals)
