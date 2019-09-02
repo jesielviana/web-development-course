@@ -95,6 +95,55 @@ console.log(cars);
 - How to access the last element of the array?
 - How to iterate over elements of an array?
 
+**for, foreach and filter**
+```javascript
+// for
+for (var i = 0; i < 9; i++) {
+  console.log(i)
+}
+// for to interate over elements of an array
+const fruits = ['abacaxi', 'maça', 'uva']; 
+for(i = 0; i < fruits.length; i++){
+  console.log(fruits[i]);
+}
+
+// foreach
+fruits.foreach(function(fruit){
+  console.log(fruit);
+})
+
+
+// filter
+const students = [{name: 'Anne', age: 17},
+                  {name: 'Jhon', age: 18},
+                  {name: 'Gab', age: 15},
+                  {name: 'Zoe', age: 19},];
+
+// print the name of the adult students
+// create a new list with adult students
+
+const adultStudents = students.filter(function(student){
+  return student.age >= 18;
+});
+```
+
+## Comparison and Logical operators 
+
+Comparison and Logical operators are used to test for true or false.
+
+* == equal value
+* === equal value and equal type
+* != not equal
+* && and
+& || or
+
+```javascript
+//examples
+2 < 12 // true
+2 < '12' // true
+5 == '5' // true
+5 === '5' // false
+```
 
 Reference: 
 - [https://www.w3schools.com/js/js_intro.asp](https://www.w3schools.com/js/js_intro.asp)
