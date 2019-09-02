@@ -4,7 +4,7 @@
 ```javascript
 let name = 'Fulano';
 let lastName = "Sicrano";
-const sex = 'Masculino';
+const sex = 'Male';
 var doNotUse = "Don't Use 'var'";
 ```
 
