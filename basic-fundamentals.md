@@ -42,6 +42,8 @@ Interconnection between devices. Computing devices exchange data with each other
 
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
+Created by Linus Torvalds to version the Linux Kernel source code, which is maintained by contributors around the world.
+
 Collaboration between developers on the same project.
 
 Free Version Control: [Github](http://github.com), [Gitlab](https://gitlab.com/)
@@ -58,6 +60,7 @@ Learn More: [https://rogerdudler.github.io/git-guide/index.pt_BR.html](https://r
 1. Create a tag number v1.0.0
 1. Create a branch number 1.0.1
 1. Add student`s names in README.md 
+1. View history
 
 ## Semantic Versioning
 
