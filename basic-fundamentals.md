@@ -22,6 +22,8 @@ Example:
 ```
 ssh {user}@{host}
 ```
+**Activity**
+1. Access another machine remotely through SSH.
 
 ## Algorithms and Data Structure
 
@@ -61,6 +63,9 @@ Learn More: [https://rogerdudler.github.io/git-guide/index.pt_BR.html](https://r
 1. Create a branch number 1.0.1
 1. Add student`s names in README.md 
 1. View history
+
+Public Projetcs -> Github
+Private Projects -> Gitlab
 
 ## Semantic Versioning
 
