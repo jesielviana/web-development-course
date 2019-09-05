@@ -21,8 +21,9 @@ console.log(3);
 
 ```javascript
 //Asynchronous with callback
-setTimeout(() => console.log("a"), 5000);
-console.log("b");
+console.log("a");
+setTimeout(() => console.log("b"), 5000);
+console.log("c");
 ```
 
 ## Promise
@@ -46,13 +47,16 @@ message()
 function message(callback){
   setTimeout(function() {
     callback('Hoooow!');
-  }, 300);
+  }, 3000);
 }
 
 //execute with callback
-function execute(content){
+function show(content){
 	console.log(content);
 }
+
+message(show);
+
 ```
 
 
