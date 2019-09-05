@@ -48,6 +48,17 @@ Free Version Control: [Github](http://github.com), [Gitlab](https://gitlab.com/)
 
 Learn More: [https://rogerdudler.github.io/git-guide/index.pt_BR.html](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
+**Activity**
+1. Create a Github repository
+1. Create a README.md with project`s name
+1. Create a branch number 1.0.0
+1. Create a <file>.md with student`s names in branch 1.0.0
+1. Merge branch 1.0.0 with master
+1. Remove branch 1.0.0
+1. Create a tag number v1.0.0
+1. Create a branch number 1.0.1
+1. Add student`s names in README.md 
+
 ## Semantic Versioning
 
 Given a version number MAJOR.MINOR.PATCH, increment the:
