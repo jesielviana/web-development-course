@@ -14,7 +14,6 @@ Publics API:
 
 ## Client API:
 
-* [Insomnia](https://insomnia.rest/)
 * [Postman](https://www.getpostman.com/)
 * [Restlet](https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm)
 
