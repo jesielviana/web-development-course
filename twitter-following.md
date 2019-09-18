@@ -1,6 +1,7 @@
 # Sigam no Twitter:
 
 * [Glaucia Lemos](https://twitter.com/glaucia_lemos86)
+* [Loiane Groner](https://twitter.com/loiane)
 * [Julia Evans](https://twitter.com/b0rk)
 * [San Quinn](https://twitter.com/SantyPK4)
 * [Alexandre Freire](https://twitter.com/freire_da_silva)
@@ -9,3 +10,6 @@
 * [Rodrido Branas](https://twitter.com/rodrigobranas)
 * [Mauricio Aniche](https://twitter.com/mauricioaniche)
 *[Lucas Santos](https://twitter.com/_StaticVoid)
+
+# Acompanhe no dev.to
+[Glaucia Lemos](https://dev.to/glaucia86)

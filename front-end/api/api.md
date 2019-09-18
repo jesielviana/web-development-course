@@ -70,7 +70,37 @@ fetch(URL_TO_FETCH, {
   });
 ```
 
-
 Reference: [https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API)
 
 Learn More: [https://css-tricks.com/using-fetch/](https://css-tricks.com/using-fetch/)
+
+## Async Await 
+## Async Await
+
+Async functions enable us to write promise based code as if it were synchronous, but without blocking the execution thread.
+
+The await operator is used to wait for a Promise. It can be used inside an Async block only. The keyword Await makes JavaScript wait until the promise returns a result.
+
+Example:
+
+```javascript
+// define promise
+async function getName () {
+  return 'Jhon';
+}
+
+// exuction promise
+getName().then(console.log)
+
+// not working
+//const name = await getName();
+
+async function main () { 
+  const name = await getName();
+  console.log('Async-Await: ', name);
+}
+
+main();
+```
+
+Reference: [https://imasters.com.br/front-end/entenda-tudo-sobre-asyncawait](https://imasters.com.br/front-end/entenda-tudo-sobre-asyncawait)
