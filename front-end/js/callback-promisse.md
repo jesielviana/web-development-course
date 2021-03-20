@@ -4,7 +4,7 @@
 Massa de dados
 
 ```javascript
-onst nomes = ["Steve", "Bill", "Linus", "Ada", "Grace", "Turing"];
+const nomes = ["Steve", "Bill", "Linus", "Ada", "Grace", "Turing"];
 const usuarios = new Map();
 
 usuarios.set(nomes[0], "EUA");
@@ -42,6 +42,27 @@ function getNacionalidadeDe(nome, callback) {
     return callback(usuarios.get(nome));
   }, Math.random() * 2000);
 }
+
+
+function addLog () {
+  console.log('adicionando log')
+  setTimeout(function () {
+    console.log('Log: usuário 123 fazendo consulta de nomes...')
+  }, Math.random() * 3000)
+}
+
+function consultaNomes (callback) {
+  console.log('Aguarde...buscando nomes no banco de dados...')
+  setTimeout(function () {
+    return callback(nomes)
+  }, Math.random() * 2000)
+}
+
+addLog()
+consultaNomes(function (nomes) {
+  console.log(nomes)
+})
+
 ```
 
 
