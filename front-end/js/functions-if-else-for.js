@@ -1,7 +1,7 @@
 const notas = []
 function leNotas () {
   for (let index = 0; index < 3; index++) {
-    const nota = prompt('informe a nota ' + index)
+    const nota = prompt('informe a nota ' + (index + 1))
     notas.push(parseFloat(nota))
   }
 }
@@ -17,4 +17,4 @@ function calculaMedia () {
 
 leNotas()
 const media = calculaMedia()
-console.log(media)
+console.log('A sua média final é: ', media)
